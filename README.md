@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Milena Nobre 👋
 
 - 👩🏻‍🎓 Graduanda em Ciência da Computação
-- 👩🏻‍💻 Hoje trabalho com desenvolvimento front-end
+- 👩🏻‍💻 Atualmente trabalho com desenvolvimento front-end
  
  <div>
   <a href="https://github.com/MilenaNobre">
