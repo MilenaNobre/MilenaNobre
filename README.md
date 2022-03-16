@@ -1,8 +1,7 @@
 ### Oi! Eu sou a Milena Nobre 👋
 
 - 👩🏻‍🎓 Graduanda em Ciência da Computação
-- 👩🏻‍💻 Atualmente trabalho com desenvolvimento front-end
- 
+- 👩🏻‍💻 Atualmente trabalho com desenvolvimento FullStack 
  <div>
   <a href="https://github.com/MilenaNobre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilenaNobre&show_icons=true&include_all_commits=true&count_private=true"/>
